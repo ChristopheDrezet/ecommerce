@@ -104,3 +104,12 @@ body {
   .input-couleur{
     height: 38px !important;
   }
+  .img-products{
+    width: 150px;
+  }
+  td{
+    vertical-align: middle !important;
+  }
+  .img-product-update{
+    width: 250px;
+  }

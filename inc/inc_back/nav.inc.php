@@ -11,13 +11,13 @@
                             </a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="gestion_commandes">
+                            <a class="nav-link" href="gestion_commandes.php">
                             <i class="bi bi-basket3 icon-nav"></i>
                             Gestion des commandes
                             </a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="gestion_users">
+                            <a class="nav-link" href="gestion_users.php">
                             <i class="bi bi-person-hearts icon-nav"></i>
                             Gestion des membres
                             </a>

@@ -173,6 +173,7 @@ require_once('../inc/inc_back/nav.inc.php');
     <div class="col-4">
         <label for="photo" class="form-label">Photo</label>
         <input type="file" class="form-control" id="photo" name="photo">
+        
         <input type="text" id="photo_actuelle" name="photo_actuelle" value="<?php if(isset($photo)) echo $photo; ?>">
     </div>
     <div class="col-4">

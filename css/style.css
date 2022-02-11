@@ -127,7 +127,9 @@ footer{
 .liens-supp-produit-panier:hover, .titre-produit-panier:hover {
     color: #808B96 !important;
 }
-
+.fp-couleur{
+    height: 30px;
+}
 
 
 /* PARTIE RESPONSIVE */
